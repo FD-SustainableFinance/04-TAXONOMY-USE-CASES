@@ -11,6 +11,6 @@
 # text in grey = notes
 ```
 
-# l4l-TAXONOMY USE CASES
+# l4l TAXONOMY USE CASES
 
 Add content ...
