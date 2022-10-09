@@ -1,16 +1,7 @@
 **PAGE STATUS**
 ```diff
-- In Development
-```
-
-**PAGE KEY**
-```diff
-+ text in green = Ready to Publish
-! text in orange = Ready for Peer Review
-- text in red = In Development
-# text in grey = notes
+- UNDER DEVELOPMENT - [Content shall be provided shortly by partner collaboration]
 ```
 
 # [4] TAXONOMY USE CASES
-
-Add content ...
+[Under Development]
