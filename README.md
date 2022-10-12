@@ -5,5 +5,5 @@
 # [4] TAXONOMY USE CASES
 **PAGE STATUS**
 ```diff
-- UNDER DEVELOPMENT - [Content shall be provided shortly by partner collaboration]
+- Under development
 ```
